@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^2.7.1",
+    "next": "beta"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
